@@ -1,4 +1,4 @@
 # hello-world
-Another 'Just another repository'
-For another programmer
-by Git-Hub
+<h2>Another 'Just another repository'</h2>
+<p>For another programmer</p>
+<p>by Git-Hub</p>
